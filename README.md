@@ -34,4 +34,4 @@ Linux:
 
 ## How to use
 
-Example of use can be found [here](./examples)
+Example of use can be found [here](https://github.com/JakubFr4czek/rotating_calipers/tree/main/examples)
