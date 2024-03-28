@@ -23,7 +23,7 @@ solution in python. That is why I wanted to share it with everyone who needs fas
 ## Complexity
 
 As rotating calipers runs in linear time it needs a convex hull on input wihch is calculated here using Graham's algorithm which runs in O(nlogn).
-All in all algorihms(Graham's algorithm + rotating calipers) time complexity is O(nlogn) + O(n) = O(nlogn)
+All in all algorihm's (Graham's algorithm + rotating calipers) time complexity is O(nlogn) + O(n) = O(nlogn)
 
 ## How to install
 
