@@ -34,4 +34,4 @@ Linux:
 
 ## How to use
 
-Example of use can be found [here](./example.py)
+Example of use can be found [here](./examples)
